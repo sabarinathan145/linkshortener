@@ -60,7 +60,7 @@ app.listen(process.env.PORT || 5000  , ()=> {
     mongoose.set("useUnifiedTopology", true);
     mongoose.set('useFindAndModify', false);
     mongoose.set('useCreateIndex', true);
-mongoose.connect("mongodb+srv://sabarinathanks:ramyasabari33@userapplication.uv3in.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", (err) => {
+mongoose.connect("mongodb+srv://sabarinathanks:priyasabari33@userapplication.uv3in.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", (err) => {
   if (err) throw err;
   console.log("DB connected");
 });
