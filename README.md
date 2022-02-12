@@ -1,7 +1,7 @@
 ## 🔗 URL-shortener
 URL shortener refers to a tool that can take a link that is too long and convert it into a more compact version.
 ## Live Demo : http://link-shorteneer.herokuapp.com/
-<img src="demo_img/1.png">
+<img src="demo.png">
 
 ## ↪️ Working progress
 Entering a URL into your internet browser sends an HTTP request to the web server to pull up a specific website. The long and the short URLs are both simply different starting points for an internet browser to get the same destination
